@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+
+.pictures-left, .pictures-right {
+    background-color: blue;
+    min-height: 600px;
+}
+
+.program-overview {
+    background-color: white;
+    min-height: 500px;
+}
+
+.batallion-staff {
+    background-color: green;
+    min-height: 200px;
+}
+
+.nav-link {
+  font-size: 20px;
+  text-align: center;
+}
