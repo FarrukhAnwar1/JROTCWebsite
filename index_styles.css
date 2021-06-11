@@ -1,5 +1,5 @@
 body {
-    background-image: url('o.jfif');
+    background-image: url('camo_background.jfif');
 }
 
 .pictures-left, .pictures-right {
@@ -15,9 +15,4 @@ body {
 .batallion-staff {
     background-color: green;
     min-height: 200px;
-}
-
-.nav-link {
-  font-size: 20px;
-  text-align: center;
 }
