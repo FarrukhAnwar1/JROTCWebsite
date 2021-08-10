@@ -2,9 +2,18 @@ body {
     background-image: url('../Media/camo_background.jfif');
 }
 
-.pictures-left, .pictures-right {
-    background-color: blue;
+.heading, .pictures-right {
     min-height: 600px;
+}
+
+.heading {
+    background-image: url("../Media/soldier_background.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+.pictures-right {
+    background-color: blue;
 }
 
 .program-overview {
