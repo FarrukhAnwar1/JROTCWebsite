@@ -2,6 +2,13 @@ body {
     background-image: url('../Media/camo_background.jfif');
 }
 
+@media only screen and (max-width: 992px) {
+    .col-md-12, .col-sm-12 {
+        padding: 0;
+        margin: 0;
+    }
+}
+
 .heading, .pictures-right {
     min-height: 600px;
 }
