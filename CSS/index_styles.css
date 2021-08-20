@@ -28,7 +28,6 @@ body {
 }
 
 .batallion-staff {
-    background-image: url("../Media/soldier_background.jpeg");
-    background-position: center;
-    background-size: cover;
+    background-color: green;
+    min-height: 200px;
 }
