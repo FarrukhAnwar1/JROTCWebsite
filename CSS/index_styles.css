@@ -14,9 +14,8 @@ body {
 }
 
 .heading {
-    background-image: url("../Media/soldier_background.jpeg");
-    background-position: center;
-    background-size: cover;
+    background-color: blue;
+    min-height: 200px;
 }
 
 .pictures-right {
@@ -29,6 +28,7 @@ body {
 }
 
 .batallion-staff {
-    background-color: green;
-    min-height: 200px;
+    background-image: url("../Media/soldier_background.jpeg");
+    background-position: center;
+    background-size: cover;
 }
