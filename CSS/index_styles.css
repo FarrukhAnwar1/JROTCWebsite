@@ -1,7 +1,3 @@
-body {
-    background-image: url('../Media/mc_camo.jfif');
-}
-
 @media only screen and (max-width: 992px) {
     .col-md-12, .col-sm-12 {
         padding: 0;
@@ -9,26 +5,18 @@ body {
     }
 }
 
-.soldier-background-2 {
+.soldier-background {
     width: 100%;
 }
 
-.heading, .pictures-right {
-    min-height: 600px;
-}
-
-.heading {
-    background-color: blue;
-    min-height: 600px;
-}
-
-.pictures-right {
+.pictures-left, .pictures-right {
+    min-height: 200px;
     background-color: blue;
 }
 
 .program-overview {
     background-color: white;
-    min-height: 500px;
+    min-height: 600px;
 }
 
 .batallion-staff {

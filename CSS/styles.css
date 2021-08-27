@@ -1,3 +1,7 @@
+body {
+    background-image: url('../Media/mc_camo.jfif');
+}
+
 .nav-link {
   font-size: 20px;
   text-align: center;
